@@ -2,7 +2,6 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../../config/app_constants.dart';
-import '../../models/category_model.dart';
 import '../../providers/report_provider.dart';
 import '../../services/storage_service.dart';
 import '../common/custom_text_field.dart';
